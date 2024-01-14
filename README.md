@@ -20,8 +20,7 @@ This repository contains a full-stack application for user management. It consis
 Ensure you have the following tools installed on your system:
 
 - [Node.js](https://nodejs.org/) and npm
-- [Docker](https://docs.docker.com/get-docker/)
-- [Docker Compose](https://docs.docker.com/compose/install/)
+- [Docker](https://www.docker.com/products/docker-desktop/)
 
 ## Backend
 
@@ -62,7 +61,7 @@ Ensure you have the following tools installed on your system:
 1. Clone this repository to your local machine:
 
     ```bash
-    git clone https://github.com/your-username/your-repository.git
+    git clone https://github.com/shubham1091/TinyDockerUser.git
     ```
 
 2. Navigate to the project directory:
